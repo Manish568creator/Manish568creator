@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manish568creator
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mgarg172003@gmail.com
 - 😄 Pronouns: He
